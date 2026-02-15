@@ -13,6 +13,7 @@ AWS + LLM Implementation | FDA Scientific Computing Days Recognition
 Designed and deployed AI pipelines to analyze unstructured documents (RFIs, proposals, and review materials) using AWS infrastructure and LLM-enhanced workflows.
 
 Enterprise Impact
+
 	•	Improved review efficiency by 40% through automated document insights.
 	•	Reduced manual summarization workload by 70% using LLM-based summarization.
 	•	Implemented NER-driven reviewer assignment and duplication detection.
