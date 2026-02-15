@@ -7,6 +7,7 @@ This document outlines a structured approach to responsible AI implementation ac
 1. AI Use Case Qualification
 
 Before development begins, each AI initiative is evaluated against:
+
 - Business objective clarity
 - Risk classification (low / moderate / high impact)
 - Data sensitivity assessment (PII, workforce data, confidential records)
