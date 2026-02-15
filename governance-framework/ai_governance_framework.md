@@ -7,11 +7,11 @@ This document outlines a structured approach to responsible AI implementation ac
 1. AI Use Case Qualification
 
 Before development begins, each AI initiative is evaluated against:
-•	Business objective clarity
-•	Risk classification (low / moderate / high impact)
-•	Data sensitivity assessment (PII, workforce data, confidential records)
-•	Fairness and adverse impact considerations
-•	Alignment with organizational values and compliance policies
+	- Business objective clarity
+	- Risk classification (low / moderate / high impact)
+	- Data sensitivity assessment (PII, workforce data, confidential records)
+	- Fairness and adverse impact considerations
+	- Alignment with organizational values and compliance policies
 
 Only use cases meeting defined readiness criteria advance to development.
 
@@ -20,10 +20,10 @@ Only use cases meeting defined readiness criteria advance to development.
 2. Data Governance & Bias Assessment
 
 Data inputs are evaluated for:
-	•	Representativeness across demographic groups
-	•	Distributional imbalance
-	•	Historical bias propagation risks
-	•	Data lineage and documentation completeness
+	-	Representativeness across demographic groups
+	-	Distributional imbalance
+	-	Historical bias propagation risks
+	-	Data lineage and documentation completeness
 
 Bias detection methods may include statistical disparity analysis, subgroup performance evaluation, and distribution shift monitoring.
 
@@ -32,10 +32,10 @@ Bias detection methods may include statistical disparity analysis, subgroup perf
 3. Model Development & Validation
 
 AI systems are evaluated using:
-	•	Transparent performance metrics
-	•	Cross-validation and robustness testing
-	•	Hallucination or output reliability analysis (for LLM systems)
-	•	Human-in-the-loop review for high-impact decisions
+	-	Transparent performance metrics
+	-	Cross-validation and robustness testing
+	-	Hallucination or output reliability analysis (for LLM systems)
+	-	Human-in-the-loop review for high-impact decisions
 
 Documentation is maintained to support explainability and reproducibility.
 
@@ -44,10 +44,10 @@ Documentation is maintained to support explainability and reproducibility.
 4. Deployment Readiness & Controls
 
 Before production deployment:
-	•	Risk mitigation plans are documented
-	•	Human oversight thresholds are defined
-	•	Monitoring triggers are established
-	•	User education and communication materials are prepared
+	-	Risk mitigation plans are documented
+	-	Human oversight thresholds are defined
+	-	Monitoring triggers are established
+	-	User education and communication materials are prepared
 
 Clear delineation is made between decision-support tools and autonomous decision systems.
 
@@ -56,10 +56,10 @@ Clear delineation is made between decision-support tools and autonomous decision
 5. Continuous Monitoring & Drift Detection
 
 Post-deployment monitoring includes:
-	•	Performance tracking across demographic segments
-	•	Drift detection in input data distributions
-	•	Output consistency evaluation
-	•	Periodic governance review checkpoints
+	-	Performance tracking across demographic segments
+	-	Drift detection in input data distributions
+	-	Output consistency evaluation
+	-	Periodic governance review checkpoints
 
 Systems are subject to iterative refinement based on feedback and observed performance.
 
@@ -68,21 +68,21 @@ Systems are subject to iterative refinement based on feedback and observed perfo
 6. Ethical & Workforce Impact Considerations
 
 Particular attention is given to:
-	•	Fairness in workforce-related analytics
-	•	Transparency of AI usage
-	•	Employee trust and communication clarity
-	•	Avoidance of automated decision opacity
+	-	Fairness in workforce-related analytics
+	-	Transparency of AI usage
+	-	Employee trust and communication clarity
+	-	Avoidance of automated decision opacity
 
 AI systems are positioned as augmentation tools, not opaque replacement mechanisms.
 
 ⸻
 
 Framework Principles
-	•	Responsible AI by design
-	•	Risk-tiered oversight
-	•	Human accountability remains central
-	•	Documentation and auditability
-	•	Continuous evaluation and improvement
+	-	Responsible AI by design
+	-	Risk-tiered oversight
+	-	Human accountability remains central
+	-	Documentation and auditability
+	-	Continuous evaluation and improvement
 
 ⸻
 
