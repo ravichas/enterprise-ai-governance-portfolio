@@ -1,8 +1,10 @@
 # AI Governance Framework
 
-This folder contains the Enterprise AI Governance & Lifecycle Oversight Framework used to guide responsible AI implementation across enterprise environments.
+# AI Governance Framework
 
-The framework outlines a structured, risk-aware approach to AI system design, validation, deployment, and monitoring. It emphasizes fairness, transparency, documentation, and human oversight — particularly critical in workforce-facing systems such as HR technology platforms.
+This document presents a structured enterprise AI governance and lifecycle oversight model informed by applied AI initiatives in regulated environments.
+
+The framework synthesizes practical lessons from real-world AI implementations into a repeatable, risk-aware structure designed to support responsible AI adoption.
 
 ## What This Framework Covers
 
