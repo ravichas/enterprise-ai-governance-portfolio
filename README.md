@@ -53,6 +53,9 @@ A structured lifecycle oversight model guiding AI qualification, validation, dep
 
 👉 [View Governance Framework](governance-framework/)
 
+## AI Lifecycle Overview
+
+![Enterprise AI Lifecycle](diagrams/ai_lifecycle.png)
 ---
 
 ## Core Principles
