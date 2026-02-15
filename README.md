@@ -6,7 +6,7 @@ This portfolio highlights practical AI deployment experience with emphasis on go
 
 ⸻
 
-🔹 ## 1. AI-Powered Document Intelligence & Workflow Automation
+🔹 1. AI-Powered Document Intelligence & Workflow Automation
 
 AWS + LLM Implementation | FDA Scientific Computing Days Recognition
 
