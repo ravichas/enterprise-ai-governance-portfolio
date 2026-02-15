@@ -1,7 +1,5 @@
 # AI Governance Framework
 
-# AI Governance Framework
-
 This document presents a structured enterprise AI governance and lifecycle oversight model informed by applied AI initiatives in regulated environments.
 
 The framework synthesizes practical lessons from real-world AI implementations into a repeatable, risk-aware structure designed to support responsible AI adoption.
