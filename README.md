@@ -32,6 +32,7 @@ PrecisionFDA Challenge Recognition
 Developed cloud-based workflows to generate and evaluate synthetic data with focus on demographic fairness, representativeness, and statistical robustness.
 
 Governance Focus
+
 	•	Designed evaluation framework to detect demographic bias and distributional shifts.
 	•	Assessed fidelity of synthetic outputs relative to source distributions.
 	•	Implemented statistical validation protocols for reliability and reproducibility.
@@ -49,6 +50,7 @@ AWS Infrastructure (EC2, SageMaker, RStudio Server)
 Architected scalable cloud infrastructure to operationalize statistical modeling workflows for scenario analysis and decision support.
 
 Implementation Highlights
+
 	•	Reduced simulation runtime by hours, improving decision cycle efficiency.
 	•	Enabled reproducible workflows with structured version control.
 	•	Focused on operational readiness, documentation, and cross-functional stakeholder engagement.
@@ -59,6 +61,7 @@ Demonstrates AI lifecycle oversight from design to deployment within controlled 
 ⸻
 
 🔹 Core Themes Across Projects
+	
 	•	AI lifecycle governance (concept → validation → deployment)
 	•	Bias detection and fairness assessment
 	•	Explainability and performance monitoring
