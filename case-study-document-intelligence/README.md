@@ -2,74 +2,75 @@
 
 ## Overview
 
-This case study highlights the design and deployment of an AI-driven document intelligence system built to support large-scale review workflows in a regulated enterprise environment.
+This case study illustrates the design and implementation of an AI-enabled document intelligence system supporting large-scale review workflows within a regulated enterprise environment.
 
-The system leveraged AWS infrastructure and LLM-enhanced processing to automate insights extraction, summarization, and reviewer assignment across unstructured documents (RFIs, proposals, review materials).
+The initiative leveraged AWS infrastructure and LLM-enhanced processing to automate insight extraction, structured summarization, and reviewer routing across unstructured documents (RFIs, proposals, and technical review materials).
 
 ---
 
 ## Business Challenge
 
-Manual document review processes were:
+Manual review workflows were:
 
-- Time-intensive and repetitive  
-- Difficult to scale across large review volumes  
-- Dependent on manual summarization and reviewer routing  
-- Prone to duplication and inconsistency  
+- Time-intensive and difficult to scale  
+- Dependent on repetitive summarization and manual reviewer assignment  
+- Vulnerable to duplication and inconsistency  
+- Limited in transparency across decision pathways  
 
-There was a need for a scalable, responsible AI-enabled solution to improve workflow efficiency while maintaining governance controls.
-
----
-
-## Solution Architecture
-
-The solution included:
-
-- AWS-based document ingestion pipelines  
-- Named Entity Recognition (NER) for structured insight extraction  
-- LLM-based summarization and contextual analysis  
-- Reviewer assignment automation logic  
-- Duplication detection mechanisms  
-- Evaluation checkpoints for output quality  
-
-The system was designed with governance oversight, ensuring outputs were reviewed and validated prior to operational use.
+A scalable, governance-aware solution was required to improve operational efficiency without compromising oversight or reliability.
 
 ---
 
-## Enterprise Impact
+## Solution Design
 
-- Improved review efficiency by approximately 40%  
-- Reduced manual summarization effort by approximately 70%  
-- Increased consistency in reviewer assignment  
-- Enhanced workflow transparency and traceability  
+The implemented solution incorporated:
 
----
+- Cloud-based document ingestion and preprocessing pipelines (AWS)  
+- Named Entity Recognition (NER) for structured signal extraction  
+- LLM-driven summarization with validation checkpoints  
+- Automated reviewer assignment logic with duplication detection  
+- Structured evaluation metrics for output consistency and reliability  
 
-## Governance & Responsible AI Considerations
-
-Special attention was given to:
-
-- Output reliability and hallucination risk mitigation  
-- Human-in-the-loop validation processes  
-- Documentation of model assumptions and limitations  
-- Bias monitoring in automated reviewer routing logic  
-- Clear delineation between decision-support and automated decision-making  
+Governance controls were embedded directly into workflow design, ensuring outputs were reviewed, validated, and traceable prior to operational use.
 
 ---
 
-## Enterprise Relevance to HR Technology
+## Measurable Impact
 
-This implementation demonstrates how AI can:
+- ~40% improvement in review efficiency  
+- ~70% reduction in manual summarization effort  
+- Increased consistency and transparency in reviewer routing  
+- Improved traceability across document review decisions  
 
-- Enhance knowledge workflows  
-- Support document-driven decision processes  
-- Improve efficiency while maintaining oversight  
-- Integrate responsibly into high-impact operational systems  
+---
 
-The same principles apply to HR AI use cases such as resume screening, internal knowledge assistants, policy Q&A automation, and workforce analytics systems.
+## Governance & Responsible AI Controls
+
+Key safeguards included:
+
+- Output reliability monitoring and hallucination risk mitigation  
+- Human-in-the-loop validation for high-impact decisions  
+- Clear documentation of assumptions and system limitations  
+- Bias awareness in automated reviewer assignment  
+- Explicit separation of decision-support functions from autonomous decisions  
+
+This ensured the system augmented — rather than replaced — human judgment.
+
+---
+
+## Enterprise Transferability to HR Technology
+
+The principles demonstrated in this implementation directly translate to workforce-facing AI systems, including:
+
+- Resume and application screening workflows  
+- Internal knowledge assistants  
+- Policy and compliance document automation  
+- Workforce analytics and decision-support systems  
+
+The emphasis on fairness, oversight, traceability, and human accountability is particularly critical in HR environments where employee trust and transparency are essential.
 
 ---
 
 ## Recognition
 
-This work was recognized at FDA Scientific Computing Days for applied AI innovation within regulated environments.
+Recognized at FDA Scientific Computing Days for applied AI innovation in regulated environments.
