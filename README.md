@@ -53,6 +53,8 @@ A structured lifecycle oversight model guiding AI qualification, validation, dep
 
 👉 [View Governance Framework](governance-framework/)
 
+This governance approach is informed by prior workforce analytics initiatives evaluating representation and retention patterns using HR datasets in regulated environments.
+
 ## AI Lifecycle Overview
 
 ![Enterprise AI Lifecycle](diagrams/ai_lifecycle.png)
