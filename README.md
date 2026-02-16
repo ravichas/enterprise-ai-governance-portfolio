@@ -1,8 +1,8 @@
 # Enterprise AI Governance Portfolio
 
-Enterprise AI strategy, governance, and responsible AI case studies demonstrating lifecycle oversight and scalable implementation in regulated environments.
+Enterprise AI strategy and responsible AI case studies demonstrating structured lifecycle oversight and scalable implementation within regulated environments.
 
-This portfolio highlights applied AI initiatives with emphasis on:
+This portfolio reflects applied AI initiatives with emphasis on:
 
 - AI lifecycle governance  
 - Bias detection and fairness assessment  
@@ -18,24 +18,24 @@ The focus is on enabling responsible, explainable, and business-aligned AI adopt
 ## Featured Case Studies
 
 ### 🔹 AI-Powered Document Intelligence & Workflow Automation  
-Designed and deployed AWS-based AI pipelines leveraging LLMs and structured extraction to improve large-scale review workflows.
+Designed and implemented AWS-based AI pipelines leveraging LLMs and structured extraction to enhance large-scale review workflows.
 
 **Impact Highlights**
 - ~40% improvement in review efficiency  
 - ~70% reduction in manual summarization effort  
-- Governance-aware implementation with validation checkpoints  
+- Governance-aware validation checkpoints embedded into workflow design  
 
 👉 [View Case Study](case-study-document-intelligence/)
 
 ---
 
 ### 🔹 Synthetic Data Quality & Bias Evaluation Framework  
-Developed evaluation workflows to assess fairness, demographic representation, and statistical robustness in synthetic data systems.
+Developed evaluation workflows to assess demographic fairness, statistical fidelity, and risk mitigation in synthetic data systems.
 
 **Focus Areas**
-- Bias detection methodologies  
+- Subgroup bias detection methodologies  
 - Distributional shift monitoring  
-- Responsible AI validation protocols  
+- Transparent validation and documentation practices  
 
 👉 [View Case Study](case-study-synthetic-bias/)
 
@@ -43,21 +43,24 @@ Developed evaluation workflows to assess fairness, demographic representation, a
 
 ## Governance Framework
 
-A structured lifecycle oversight model guiding AI qualification, validation, deployment, and monitoring.
+A structured lifecycle oversight model guiding AI use case qualification, validation, deployment, and continuous monitoring.
 
 - Risk-tiered review checkpoints  
 - Data governance and bias assessment  
 - Model validation and documentation standards  
-- Continuous monitoring and drift detection  
+- Drift detection and performance monitoring  
 - Workforce and ethical impact safeguards  
 
 👉 [View Governance Framework](governance-framework/)
 
 This governance approach is informed by prior workforce analytics initiatives evaluating representation and retention patterns using HR datasets in regulated environments.
 
+---
+
 ## AI Lifecycle Overview
 
 ![Enterprise AI Lifecycle](diagrams/ai_lifecycle.png)
+
 ---
 
 ## Core Principles
@@ -72,7 +75,4 @@ This governance approach is informed by prior workforce analytics initiatives ev
 
 ## Professional Focus
 
-My current focus is on advancing enterprise AI governance and scalable implementation frameworks that enable ethical, transparent, and high-impact AI adoption across functional domains.
-
-This includes workforce-facing AI systems where fairness, trust, and explainability are essential.
-Selected enterprise AI initiatives demonstrating strategy, lifecycle oversight, and responsible AI implementation across regulated environments.
+My current focus is advancing enterprise AI governance and scalable implementation frameworks that enable ethical, transparent, and high-impact AI adoption across functional domains — particularly workforce-facing AI systems where fairness, trust, and explainability are essential.
