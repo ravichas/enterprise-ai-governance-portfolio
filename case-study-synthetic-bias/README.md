@@ -2,76 +2,75 @@
 
 ## Overview
 
-This case study highlights the development of a cloud-based evaluation framework designed to assess synthetic data quality, demographic representation, and fairness risks in AI systems.
+This case study presents the design and implementation of a structured evaluation framework for assessing synthetic data quality, demographic representation, and fairness risk in AI systems.
 
-The initiative focused on ensuring that generated data maintained statistical fidelity while minimizing bias amplification and unintended demographic distortion.
+The initiative focused on preserving statistical fidelity while proactively identifying and mitigating bias amplification and unintended distributional distortion.
 
 ---
 
 ## Business Challenge
 
-Synthetic data systems can introduce:
+Synthetic data systems, while valuable for privacy and scalability, introduce risks including:
 
-- Demographic imbalance  
-- Distributional drift  
-- Hidden bias propagation  
-- Loss of statistical fidelity  
+- Demographic imbalance and subgroup underrepresentation  
+- Distributional drift from source data  
+- Hidden bias propagation across protected groups  
 - Reduced trust in downstream AI applications  
 
-There was a need for a structured validation framework to assess fairness, representativeness, and reliability before operational use.
+A structured, repeatable validation approach was required to ensure synthetic outputs were reliable, representative, and suitable for high-impact decision-support systems.
 
 ---
 
-## Solution Approach
+## Solution Design
 
-A scalable AWS-based workflow was developed to:
+A scalable cloud-based evaluation workflow was implemented to:
 
 - Compare synthetic outputs against source data distributions  
-- Measure demographic subgroup representation  
-- Evaluate statistical parity and distributional consistency  
-- Detect performance variation across protected groups  
-- Implement reproducible validation protocols  
+- Assess demographic subgroup representation and coverage  
+- Evaluate statistical parity and performance consistency  
+- Detect distributional shift across features and outcomes  
+- Establish reproducible validation protocols and reporting standards  
 
-The framework emphasized documentation, transparency, and structured reporting of bias indicators.
+The framework embedded transparency and documentation practices to support auditability and governance review.
 
 ---
 
 ## Governance & Responsible AI Controls
 
-The system incorporated:
+Key safeguards included:
 
-- Subgroup performance analysis  
-- Distribution shift detection  
-- Fairness metric evaluation  
-- Clear reporting of model assumptions and limitations  
-- Human review checkpoints for high-impact outputs  
+- Subgroup performance and fairness metric evaluation  
+- Distribution shift and drift detection mechanisms  
+- Explicit documentation of modeling assumptions and limitations  
+- Structured reporting of bias indicators prior to deployment decisions  
+- Human review checkpoints for high-impact applications  
 
-Bias findings were documented and communicated to stakeholders prior to deployment decisions.
+This ensured synthetic data outputs were evaluated as decision-support inputs rather than assumed to be neutral or bias-free.
 
 ---
 
 ## Enterprise Impact
 
-- Improved confidence in synthetic data applications  
-- Enabled structured fairness review prior to operational use  
+- Increased confidence in synthetic data applications  
+- Enabled structured fairness review before operational integration  
 - Reduced risk of unintended bias amplification  
-- Strengthened governance documentation practices  
+- Strengthened governance documentation and validation processes  
 
 ---
 
-## Enterprise Relevance to HR Technology
+## Enterprise Transferability to HR Technology
 
-AI systems operating in workforce environments must carefully address:
+Workforce-facing AI systems require rigorous fairness evaluation and representational integrity. The principles demonstrated here directly apply to:
 
-- Demographic fairness  
-- Equal performance across employee groups  
-- Transparency of model behavior  
-- Trust in automated insights  
+- Workforce analytics and equity monitoring  
+- Resume and applicant screening systems  
+- Performance and promotion modeling  
+- Talent mobility and retention analysis  
 
-The evaluation principles applied in this case study directly transfer to HR AI systems such as workforce analytics, resume screening tools, performance prediction models, and internal talent mobility systems.
+Ensuring demographic consistency, subgroup parity, and transparent validation is particularly critical in HR environments where employee trust and regulatory compliance are essential.
 
 ---
 
 ## Recognition
 
-This work was recognized in the PrecisionFDA Synthetic Data Challenge for advancing data quality and fairness evaluation practices.
+Recognized in the PrecisionFDA Synthetic Data Challenge for advancing structured evaluation and fairness assessment methodologies.
